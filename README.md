@@ -20,11 +20,11 @@ Full-stack e-commerce admin panel — Symfony 7 REST API backend + React/TypeScr
 
 ## Features
 
-- **Product management** — CRUD with pagination, category filtering, soft-delete
-- **Order management** — Create orders with stock reservation (transactional), status state machine
-- **Data validation** — DTO-based validation with Symfony Validator
-- **Global error handling** — ExceptionSubscriber maps domain exceptions to JSON responses
-- **CORS** — NelmioCorsBundle configured for local development
+- **Product management** - CRUD with pagination, category filtering, soft-delete
+- **Order management** - Create orders with stock reservation (transactional), status state machine
+- **Data validation** - DTO-based validation with Symfony Validator
+- **Global error handling** - ExceptionSubscriber maps domain exceptions to JSON responses
+- **CORS** - NelmioCorsBundle configured for local development
 
 ## Project Structure
 
