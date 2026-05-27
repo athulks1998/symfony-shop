@@ -1,6 +1,6 @@
 # symfony-shop
 
-Full-stack e-commerce admin panel — Symfony 7 REST API backend + React/TypeScript frontend.
+Full-stack e-commerce admin panel - Symfony 7 REST API backend + React/TypeScript frontend.
 
 ## Tech Stack
 
